@@ -91,3 +91,6 @@ for i in range(0,n): print("\t\tforce on particle",i,"= ",force[i][0],"i + ",for
 t=float(input("enter time at which you want to know dynamics of motion= "))
 dt=float(input("enter t such that 10^(-t) is small time interval= "))
 dt=10**(-dt)
+
+# hii first time use of github
+
